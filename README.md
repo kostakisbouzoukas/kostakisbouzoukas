@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **kostakisbouzoukas/kostakisbouzoukas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on:
@@ -25,6 +25,3 @@ The Progress Engine: Turning Problems into Compounding Progress -> https://www.p
 The Burden of Intelligence and the Pain of Seeing Too Much -> https://www.progresspursuit.com/blog/burden-of-intelligence
 The Error‑Correction Advantage: Why Your Error‑Correction Velocity Predicts Future Progress -> https://www.progresspursuit.com/blog/the-errorcorrection-advantage-why-your-errorcorrection-velocity-predicts-future-progress
 
-
-
--->
