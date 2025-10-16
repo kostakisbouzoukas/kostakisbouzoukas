@@ -1,9 +1,6 @@
 
 ## Hi there 👋
 
-
-**kostakisbouzoukas/kostakisbouzoukas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
  - 🔭 I’m currently working on:
 	 - https://www.progresspursuit.com/ 
 	 - https://www.breakthroughpursuit.com/
